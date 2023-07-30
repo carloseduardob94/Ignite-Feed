@@ -3,7 +3,7 @@
 <h1 align="center"> Projeto Final ✨</h2>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/72894980/185256638-0ede8368-7081-40e4-aa47-198707cd22a4.gif" />
+<img src="https://media.licdn.com/dms/image/D4D22AQHx1bBE3mfpRA/feedshare-shrink_800/0/1690746930682?e=1693440000&v=beta&t=3plnV_GTOckt55KLnw0Qyyd7jzXlLpNHZpcRXFxSp40" />
 </p> 
 
 <h2 align="center">Linguagens e Tecnologias usadas ⬇</h2>
